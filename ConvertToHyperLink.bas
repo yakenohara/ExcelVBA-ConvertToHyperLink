@@ -1,5 +1,5 @@
-Attribute VB_Name = "ハイパーリンク化"
-Sub ハイパーリンク化()
+Attribute VB_Name = "ConvertToHyperLink"
+Sub ConvertToHyperLink()
     
     Dim writePlace As Range
     Dim val As Variant
