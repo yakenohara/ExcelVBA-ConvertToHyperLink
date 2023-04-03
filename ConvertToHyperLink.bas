@@ -24,7 +24,7 @@ Sub ConvertToHyperLink()
     Dim val As Variant
     Dim retVal As Integer
     
-    Dim numOfCells As LongLong
+    Dim numOfCells As Long
     Dim cellcnt As Long
     
     Dim cautionMessage As String: cautionMessage = "このSubプロシージャは、" & vbLf & _
